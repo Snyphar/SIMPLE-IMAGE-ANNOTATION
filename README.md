@@ -40,7 +40,7 @@ To install and run **Simple Image Annotation**, follow these steps:
 After saving, your specified directory will contain:
 - **Annotated Images**: Images with bounding boxes and labels overlaid.
 - **Raw Images**: The original images without any modifications.
-- **Annotations**: A JSON or XML file containing the bounding box coordinates and labels.
+- **Annotations**: A CSV file containing the bounding box coordinates and labels.
 
 
 ## Contributing
